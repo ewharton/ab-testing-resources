@@ -6,20 +6,19 @@ We wrote post...
 ## Starter Kit Overflow
 
 * [Making Big Changes](http://iterative.club/)
-* [Designing with Data](https://www.amazon.com/Designing-Data-Improving-Experience-Testing/dp/1449334830) – book, ideal for designers/PMs or Analysts looking to improve their partnership with designers.
-* [Statistical Methods in Online A/B testing](https://www.amazon.com/Statistical-Methods-Online-Testing-commerce/dp/1694079724) – book, maps statistical concepts to A/B testing. Good for a thorough deep dive or as a reference. 
-
-* [Trustworthy Online Controlled Experiments: Five Puzzling Outcomes Explained](https://notes.stephenholiday.com/Five-Puzzling-Outcomes.pdf) (Microsoft)
-* [Communicating A/B Test Results for Conversion Rates with Ratios and Uncertainty Intervals](https://medium.com/@HarlanH/communicating-a-b-test-results-for-conversion-rates-with-ratios-and-uncertainty-intervals-4141ac66f343) how and what metrics to show stakeholders (use a forest plot on % lift). Helpful if you design exp platform UIs. 
-* Netflix - [It’s All A/Bout Testing: The Netflix Experimentation Platform](https://medium.com/netflix-techblog/its-all-a-bout-testing-the-netflix-experimentation-platform-4e1ca458c15)  
+* [Designing with Data](https://www.amazon.com/Designing-Data-Improving-Experience-Testing/dp/1449334830) – Book, ideal for designers/PMs or Analysts looking to improve their partnership with designers.
+* [Statistical Methods in Online A/B testing](https://www.amazon.com/Statistical-Methods-Online-Testing-commerce/dp/1694079724) – Book, maps statistical concepts to A/B testing. Good for a thorough deep dive or as a reference book.
+* [Trustworthy Online Controlled Experiments: Five Puzzling Outcomes Explained](https://notes.stephenholiday.com/Five-Puzzling-Outcomes.pdf) - Microsoft.
+* [Communicating A/B Test Results for Conversion Rates with Ratios and Uncertainty Intervals](https://medium.com/@HarlanH/communicating-a-b-test-results-for-conversion-rates-with-ratios-and-uncertainty-intervals-4141ac66f343) - How and what metrics to show stakeholders. Especially helpful if you're designing an exp platform UI. 
+* [It’s All A/Bout Testing: The Netflix Experimentation Platform](https://medium.com/netflix-techblog/its-all-a-bout-testing-the-netflix-experimentation-platform-4e1ca458c15) - Netflix.
+* [How Not to Run an A/B Test](https://www.evanmiller.org/how-not-to-run-an-ab-test.html) - A classic on stats mistakes.
+* [Statistical Challenges in Online Controlled Experiments: A Review of A/B Testing Methodology](https://arxiv.org/abs/2212.11366?t) - Call for more statisticians to collaborate with industry. 
 * [The top 3 mistakes that make your A/B test results invalid](https://www.widerfunnel.com/blog/3-mistakes-invalidate-ab-test-results/) 
-* [How Not to Run an A/B Test](https://www.evanmiller.org/how-not-to-run-an-ab-test.html) A classic.
-* [Statistical Challenges in Online Controlled Experiments: A Review of A/B Testing Methodology](https://arxiv.org/abs/2212.11366?t) Call for more statisticians to collaborate with industry 
 
 
 ## Advanced Topics
 
-* [Pitfalls of Long-Term Online Controlled Experiments](https://www.exp-platform.com/Documents/2016%20IEEEBigDataLongRunningControlledExperiments.pdf) (Microsoft)
+* [Pitfalls of Long-Term Online Controlled Experiments](https://www.exp-platform.com/Documents/2016%20IEEEBigDataLongRunningControlledExperiments.pdf) - Microsoft.
 * [Optional stopping in data collection: p values, Bayes factors, credible intervals, precision](https://doingbayesiandataanalysis.blogspot.com/2013/11/optional-stopping-in-data-collection-p.html) shows how different stopping criteria balloons error rates and one safe option. Helpful if you’re Bayesian curious, especially if you hope credible intervals are safe stopping criteria.
 * [From Infrastructure to Culture: A/B Testing Challenges in Large Scale Social Networks](https://content.linkedin.com/content/dam/engineering/site-assets/pdfs/ABTestingSocialNetwork_share.pdf) (LinkedIn)
 * [Data-Driven Metric Development for Online Controlled Experiments: Seven Lessons Learned](http://www.exp-platform.com/Documents/2016KDDMetricDevelopmentLessonsDengShi.pdf)
