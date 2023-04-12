@@ -1,7 +1,6 @@
 # A/B Testing Resources Appendix
 
-We wrote post... 
-
+This GitHub is a companion to our A/B Testing Resource Starter Kit blog post [LINK AND REPLACE WITH ACTUAL BLOG POST TITLE]. If there are any resources you think we should add, please file an issue or add a pull request!
 
 ## Starter Kit Overflow
 
@@ -14,7 +13,6 @@ We wrote post...
 * [How Not to Run an A/B Test](https://www.evanmiller.org/how-not-to-run-an-ab-test.html) - A classic on stats mistakes.
 * [Statistical Challenges in Online Controlled Experiments: A Review of A/B Testing Methodology](https://arxiv.org/abs/2212.11366?t) - Call for more statisticians to collaborate with industry. 
 * [The top 3 mistakes that make your A/B test results invalid](https://www.widerfunnel.com/blog/3-mistakes-invalidate-ab-test-results/) 
-
 
 ## Advanced Topics
 
