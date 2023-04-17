@@ -43,7 +43,7 @@ This GitHub is a companion to our A/B Testing Resource Starter Kit blog post [LI
 
 ## Just For Fun
 
-* [Still Not Significant](https://mchankins.wordpress.com/2013/04/21/still-not-significant-2/) - List of creative terms people used for non significant results. 
+* [Still Not Significant](https://mchankins.wordpress.com/2013/04/21/still-not-significant-2/) - List of creative phrases used to describe non significant results over the years. 
 * [Estimated Costs of Pivotal Trials for Novel Therapeutic Agents Approved by the US Food and Drug Administration](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2702287) - Cost estimate for pivotal clinical trials. Good to share when people complain about costs/inconvenience of A/B tests.
 
 
@@ -61,10 +61,10 @@ This GitHub is a companion to our A/B Testing Resource Starter Kit blog post [LI
 
 * [Test and Roll](https://github.com/eleafeit/testandroll) - R package to set sample sizes based on test and roll framework.
 * [Multtest](http://www.bioconductor.org/packages/release/bioc/html/multtest.html) - R package for resampling-based multiple hypothesis testing.
-* [PyMC](https://www.pymc.io/welcome.html) - python package for bayesian analysis.
+* [PyMC](https://www.pymc.io/welcome.html) - Python package for bayesian analysis.
 * [PlanOut](http://facebook.github.io/planout/) - FB’s experimentation planning.
-* [PlanAlyzer](https://github.com/KDL-umass/PlanAlyzer/tree/master/ocaml) - linter for experimental designs implemented in PlanOut.
-* [Ax](https://github.com/facebook/Ax?source=post_page-----6bab1e0d7845----------------------) - python package to implement adaptive experiments from FB.
+* [PlanAlyzer](https://github.com/KDL-umass/PlanAlyzer/tree/master/ocaml) - Linter for experimental designs implemented in PlanOut.
+* [Ax](https://github.com/facebook/Ax?source=post_page-----6bab1e0d7845----------------------) - Python package to implement adaptive experiments from FB.
 
 
 
