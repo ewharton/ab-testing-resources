@@ -39,3 +39,32 @@ This GitHub is a companion to our A/B Testing Resource Starter Kit blog post [LI
 * [Limiting bias from test-control interference in online marketplace experiments](https://dspace.mit.edu/handle/1721.1/117999)
 * [An Empirical Meta-analysis of E-commerce A/B Testing Strategies](https://mackinstitute.wharton.upenn.edu/wp-content/uploads/2020/11/FP0398a_WP_2020Mar.pdf) - See which types of ecommerce treatments performed well in a meta-analysis. YMMV.
 * [https://arxiv.org/pdf/2107.08995.pdf](https://arxiv.org/pdf/2107.08995.pdf) - Compares observational studies where treatments are opt in vs randomized A/B tests. Opt in "experiments" produce unreliable results.
+
+
+## Just For Fun
+
+* [Still Not Significant](https://mchankins.wordpress.com/2013/04/21/still-not-significant-2/) - List of creative terms people used for non significant results. 
+* [Estimated Costs of Pivotal Trials for Novel Therapeutic Agents Approved by the US Food and Drug Administration](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2702287) - Cost estimate for pivotal clinical trials. Good to share when people complain about costs/inconvenience of A/B tests.
+
+
+## Web Apps Tools
+
+* [Sample Size Calculator](https://www.evanmiller.org/ab-testing/chi-squared.html) - Simple, frequentist approach for conversation rates.
+* [Bookings.com power calculator](https://bookingcom.github.io/powercalculator/) - Plan sample sizes with more advanced features. 
+* [Chi Squared Test](https://www.evanmiller.org/ab-testing/chi-squared.html) - Simple, frequentist analysis for conversion rate differences.
+* [So You Think You Can Test](https://www.lukasvermeer.nl/confidence/) - Simulation game to test and develop your experiment analysis skills.
+* [Test and Roll](https://testandroll.shinyapps.io/testandroll/) - Sample size planning with the Test and Roll framework (advanced).
+* [GoodUI](https://goodui.org/) - Repository of winning UIs from A/B tests. YMMV.
+
+
+## Software Packages
+
+* [Test and Roll](https://github.com/eleafeit/testandroll) - R package to set sample sizes based on test and roll framework.
+* [Multtest](http://www.bioconductor.org/packages/release/bioc/html/multtest.html) - R package for resampling-based multiple hypothesis testing.
+* [PyMC](https://www.pymc.io/welcome.html) - python package for bayesian analysis.
+* [PlanOut](http://facebook.github.io/planout/) - FB’s experimentation planning.
+* [PlanAlyzer](https://github.com/KDL-umass/PlanAlyzer/tree/master/ocaml) - linter for experimental designs implemented in PlanOut.
+* [Ax](https://github.com/facebook/Ax?source=post_page-----6bab1e0d7845----------------------) - python package to implement adaptive experiments from FB.
+
+
+
