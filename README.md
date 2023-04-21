@@ -45,7 +45,7 @@ This GitHub is a companion to our blog post ["Recommend Resources for Starting A
 
 * [Still Not Significant](https://mchankins.wordpress.com/2013/04/21/still-not-significant-2/) - List of creative phrases used to describe non significant results over the years. 
 * [Estimated Costs of Pivotal Trials for Novel Therapeutic Agents Approved by the US Food and Drug Administration](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2702287) - Cost estimate for pivotal clinical trials. Good to share when people complain about costs/inconvenience of A/B tests.
-
+* [What is a p-value anyway? 34 Stories to Help You Actually Understand Statistics](https://www.amazon.com/p-value-Stories-Actually-Understand-Statistics/dp/0321629302) - Medical researcher presenting the essential concepts in thirty-four stories
 
 ## Web Apps Tools
 
