@@ -1,6 +1,6 @@
 # A/B Testing Resources Appendix
 
-This GitHub is a companion to our A/B Testing Resource Starter Kit blog post [LINK AND REPLACE WITH ACTUAL BLOG POST TITLE]. If there are any resources you think we should add, please file an issue or add a pull request!
+This GitHub is a companion to our blog post ["Recommend Resources for Starting A/B Testing."](https://eddiewharton.com/2023/04/19/recommend-resources-for-starting-a-b-testing/) If there are any resources you think we should add, please file an issue or add a pull request!
 
 ## Starter Kit Overflow
 
